@@ -8,7 +8,7 @@
 #include "shell/common/node_natives_code_cache_internal.h"
 
 #include "base/no_destructor.h"
-#include "shell/common/node_includes.h"
+#include "third_party/electron_node/src/node_builtins.h"
 
 namespace electron::internal {
 
